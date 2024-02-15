@@ -1,2 +1,2 @@
-"%MSFS_SDK%\Tools\bin\fspackagetool.exe" "maximus-ingamepanels-custom\Build\maximus-ingamepanels-custom.xml" -nomirroring
-copy /Y "maximus-ingamepanels-custom\Build\Packages\maximus-ingamepanels-custom\Build\maximus-ingamepanels-custom.spb" "maximus-ingamepanels-custom\InGamePanels"
+"%MSFS_SDK%\Tools\bin\fspackagetool.exe" "flightdash-panel\Build\flightdash-panel.xml" -nomirroring
+copy /Y "flightdash-panel\Build\Packages\flightdash-panel\Build\flightdash-panel.spb" "flightdash-panel\InGamePanels"

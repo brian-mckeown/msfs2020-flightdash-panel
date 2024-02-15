@@ -92,7 +92,7 @@ class IngamePanelCustomPanel extends TemplateElement {
                 console.log('panelActive');
                 self.panelActive = true;
                 if (self.iframeElement) {
-                    self.iframeElement.src = 'https://www.ipify.org/';
+                    self.iframeElement.src = 'https://www.flightdash.io/app';
                 }
             });
             this.ingameUi.addEventListener("panelInactive", (e) => {
